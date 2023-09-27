@@ -10,8 +10,12 @@ Após o vencimento valor a ser pago: R$ 50
 Diarista: R$ 15
 
 ## Regras do Jogo
+
 - Uma partida deve ser disputada por duas equipes, cada uma composta
 OBRIGATORIAMENTE de 07 atletas, onde um dos quais, será o goleiro.
+
+- A titularidade no jogo se dá por ordem de preenchimento do nome na lista no dia do jogo.
+Colocou nome na lista e não compareceu por um motivo plausível será cobrado Taxa Picanha: R$ 113.
 
 - A partida terá inicio, após autorização, quando um atleta da equipe
 beneficiada com a saída, movimentará a bola que deve estar imóvel no centro
@@ -41,3 +45,11 @@ Churrasco para mensalista: R$ 30
 Churrasco para convidado: R$ 40
 
 Taxa Picanha: R$ 113
+
+Obs.: É dispensado o pagamento do churrasco no mês, o indivíduo que paga a Taxa Picanha: R$ 113.
+
+## Penalidades
+
+Quem não cumprir as regras acima fica passível de perder sua honra de ser mensalista.
+
+Quem gostou bate palma, quem não gostou paciência.
