@@ -5,7 +5,7 @@ Valor Mensalista: R$ 40
 
 Pagamento do mensalista até o 7° dia do mês vigente!
 
-Após o vencimento valor a ser pago: R$ 50
+Após o vencimento valor a ser pago: R$ 50, sendo que o nome dos inadimplentes constará em lista a ser divulgada no grupo a partir do dia útil seguinte ao vencimento.
 
 Diarista: R$ 15
 
