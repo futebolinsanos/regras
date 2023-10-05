@@ -19,6 +19,8 @@ Colocou nome na lista e não compareceu por um motivo plausível será cobrado T
 
 - O mensalista é responsável pelo seu convidado, caso o mesmo não pague sua diária fica encarregado ao mensalista pagar, assim como é responsável por qualquer atitude antidesportiva do mesmo.
 
+- Entrada cretina, violenta é passível de gancho de um mês, caso seja reicidente, será expulso do mensalista.
+
 - A partida terá inicio, após autorização, quando um atleta da equipe
 beneficiada com a saída, movimentará a bola que deve estar imóvel no centro
 do campo, EM QUALQUER DIREÇÃO.
@@ -50,6 +52,8 @@ Taxa Picanha: R$ 113
 
 Obs.: É dispensado o pagamento do churrasco no mês, o indivíduo que paga a Taxa Picanha: R$ 113.
 
+- Nome na lista e não compareceu, pagamento do churrasco deve ser realizado mesmo assim.
+- 
 ## Penalidades
 
 Quem não cumprir as regras acima fica passível de perder sua honra de ser mensalista.
