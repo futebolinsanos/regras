@@ -14,6 +14,8 @@ Diarista: R$ 15
 - Uma partida deve ser disputada por duas equipes, cada uma composta
 OBRIGATORIAMENTE de 07 atletas, onde um dos quais, será o goleiro.
 
+- Quando tiver reserva(s) (Mais de 14 jogadores, tem que desenhar neah) a troca é imediata após 10 minutos de bola rolando, não tá correndo, não tá cooperando tem que dar o lugar sem reclamar, tem que ter bom senso e se encher o saco por isso também estará suspenso do futebol.
+
 - A titularidade no jogo se dá por ordem de preenchimento do nome na lista no dia do jogo.
   
 - Colocou nome na lista e não compareceu por um motivo plausível será cobrado Taxa Diarista: R$ 15.
