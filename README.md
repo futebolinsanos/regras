@@ -61,7 +61,7 @@ Colocou nome na lista e não compareceu, pagamento do churrasco deve ser realiza
 
 A bebida é dividida igualmente pelo o que foi consumido no evento do mês, vulgo churrasco, faça valer a pena, beba sem moderação.
 
-Acertar a bebida consumida em até 7 dias após o churrasco.
+Realizar pagamento da bebida consumida em até 7 dias após o churrasco.
   
 ## Penalidades
 
