@@ -18,7 +18,9 @@ OBRIGATORIAMENTE de 07 atletas, onde um dos quais, será o goleiro.
   
 - Colocou nome na lista e não compareceu por um motivo plausível será cobrado Taxa Diarista: R$ 15.
 
-- O mensalista é responsável pelo seu convidado, caso o mesmo não pague sua diária fica encarregado ao mensalista pagar, assim como é responsável por qualquer atitude antidesportiva do mesmo.
+- O mensalista é responsável pelo seu convidado, caso o mesmo não pague sua diária, fica encarregado ao mensalista pagar.
+
+- O mensalista também é responsável por qualquer atitude antidesportiva do convidado.
 
 - Entrada cretina, violenta é passível de gancho de um mês, caso seja reicidente, será expulso do mensalista.
 
