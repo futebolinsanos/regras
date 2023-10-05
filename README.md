@@ -57,7 +57,7 @@ Taxa Picanha: R$ 113
 
 Obs.: É dispensado o pagamento do churrasco no mês, o indivíduo que paga a Taxa Picanha: R$ 113.
 
-Nome na lista e não compareceu, pagamento do churrasco deve ser realizado mesmo assim.
+Colocou nome na lista e não compareceu, pagamento do churrasco deve ser realizado mesmo assim.
   
 ## Penalidades
 
