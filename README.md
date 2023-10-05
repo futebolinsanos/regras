@@ -22,7 +22,9 @@ OBRIGATORIAMENTE de 07 atletas, onde um dos quais, será o goleiro.
 
 - O mensalista também é responsável por qualquer atitude antidesportiva do convidado.
 
-- Entrada cretina, violenta é passível de gancho de um mês, caso seja reicidente, será expulso do mensalista.
+- Válido a todos, entrada cretina e/ou violenta é passível de gancho de um mês, caso seja reicidente, será expulso do mensalista.
+
+- Lembre-se, a ideia do fute é ter #Futechurras não vale o risco termos uma lesão pra ganhar a todo custo, somos mais do que amigos, friends.
 
 - A partida terá inicio, após autorização, quando um atleta da equipe
 beneficiada com a saída, movimentará a bola que deve estar imóvel no centro
@@ -56,7 +58,7 @@ Taxa Picanha: R$ 113
 Obs.: É dispensado o pagamento do churrasco no mês, o indivíduo que paga a Taxa Picanha: R$ 113.
 
 - Nome na lista e não compareceu, pagamento do churrasco deve ser realizado mesmo assim.
-- 
+  
 ## Penalidades
 
 Quem não cumprir as regras acima fica passível de perder sua honra de ser mensalista.
