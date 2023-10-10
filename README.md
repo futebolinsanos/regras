@@ -14,10 +14,8 @@ Diarista: R$ 15
 - Uma partida deve ser disputada por duas equipes, cada uma composta
 OBRIGATORIAMENTE de 07 atletas, onde um dos quais, será o goleiro.
 
-- Quando tiver reserva(s) (Mais de 14 jogadores, tem que desenhar) a troca é imediata após 10 minutos de bola rolando, não tá correndo, não tá cooperando tem que dar o lugar sem reclamar, tem que ter bom senso e se encher o saco por isso também estará suspenso do futebol.
-
-- Por causa de pessoas como vocês, na caixa do ovo está escrito "Contém ovo".
-
+- Quando tiver reserva(s) (Mais de 14 jogadores) a troca é imediata após 10 minutos de bola rolando, não tá correndo, não tá cooperando tem que dar o lugar sem reclamar, tem que ter bom senso e se encher o saco por isso também estará suspenso do futebol.
+  
 - Não alterar nome e/ou posição do amiguinho na lista do fute e/ou churrasco. 
 
 - A titularidade no jogo se dá por ordem de preenchimento do nome na lista no dia do jogo.
@@ -74,5 +72,7 @@ Realizar pagamento da bebida consumida em até 7 dias após o churrasco.
 Quem não cumprir as regras acima fica passível de perder sua honra de ser mensalista.
 
 Encheu meu saco estará fora do grupo INSANOS!
+
+- É por causa de pessoas assim como vocês que na caixa de ovo vem escrito “contém ovo”.
 
 Quem gostou bate palma, quem não gostou paciência.
