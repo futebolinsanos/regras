@@ -31,7 +31,7 @@ OBRIGATORIAMENTE de 07 atletas, onde um dos quais, será o goleiro.
 - Lembre-se, a ideia do fute é ter #Futechurras não vale o risco termos uma lesão pra ganhar a todo custo, somos mais do que amigos, friends.
 
 - Se o indivíduo já tem a ciência que será desfalque no jogo, não custa nada colocar o nome na lista dos desfalques para facilitar a organização do fute.
-- 
+  
 - A partida terá inicio, após autorização, quando um atleta da equipe
 beneficiada com a saída, movimentará a bola que deve estar imóvel no centro
 do campo, EM QUALQUER DIREÇÃO.
