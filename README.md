@@ -73,7 +73,7 @@ Realizar pagamento da bebida consumida em até 7 dias após o churrasco.
 
 Quem não cumprir as regras acima fica passível de perder sua honra de ser mensalista.
 
-Encheu meu saco estará fora do grupo INSANOS!
+Encheu meu saco estará fora do grupo INSANOS, Caicedo seja lá qual for o nome da vez!
 
 - É por causa de pessoas assim como vocês que na caixa de ovo vem escrito “contém ovo”.
 
