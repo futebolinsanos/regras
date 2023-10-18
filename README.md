@@ -9,6 +9,9 @@ Após o vencimento valor a ser pago: R$ 50, sendo que o nome dos inadimplentes c
 
 Diarista: R$ 15
 
+Atenção: 
+Antes de viajar acertar o pagamento pendente, seja mensalista, bebida ou avulso.
+
 ## Regras do Jogo
 
 - Uma partida deve ser disputada por duas equipes, cada uma composta
