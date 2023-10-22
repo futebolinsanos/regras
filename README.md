@@ -12,6 +12,8 @@ Diarista: R$ 15
 Atenção: 
 Antes de viajar acertar o pagamento pendente, seja mensalista, bebida ou avulso.
 
+Time rebaixado paga a picanha.
+
 ## Regras do Jogo
 
 - Uma partida deve ser disputada por duas equipes, cada uma composta
