@@ -9,6 +9,8 @@ Após o vencimento valor a ser pago: R$ 50, sendo que o nome dos inadimplentes c
 
 Diarista: R$ 15
 
+Para papais do grupo: Licença paternidade (LP) de 3 meses, retorna pagando o mensalista, taxa picanha (R$ 113) e terá uma surpresa do grupo :)
+
 Atenção: 
 Antes de viajar acertar o pagamento pendente, seja mensalista, bebida ou avulso.
 
@@ -72,7 +74,9 @@ Colocou nome na lista e não compareceu, pagamento do churrasco deve ser realiza
 
 A bebida é dividida igualmente pelo o que foi consumido no evento do mês, vulgo churrasco, faça valer a pena, beba sem moderação.
 
+
 Realizar pagamento da bebida consumida em até 7 dias após o churrasco.
+Após os 7 dias e não realizou o pagamento da bebida, o pagamento será o dobro do valor pendente.
   
 ## Penalidades
 
