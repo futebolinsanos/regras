@@ -17,7 +17,6 @@ Para papais do grupo: Licença paternidade (LP) de 3 meses, retorna pagando o me
 
 Antes de viajar acertar o pagamento pendente, seja mensalista, bebida ou avulso.
 
-Se o time for rebaixado paga a picanha.
 
 ## Regras do Jogo
 
@@ -80,6 +79,8 @@ A bebida é dividida igualmente pelo o que foi consumido no evento do mês, vulg
 
 Realizar pagamento da bebida consumida em até 7 dias após o churrasco.
 Após os 7 dias e não realizou o pagamento da bebida, o pagamento será o dobro do valor pendente.
+
+Se o time for rebaixado paga a picanha.
   
 ## Penalidades
 
