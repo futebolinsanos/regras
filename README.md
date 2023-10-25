@@ -12,6 +12,7 @@ Diarista: R$ 15
 
 
 Atenção: 
+
 Para papais do grupo: Licença paternidade (LP) de 3 meses, retorna pagando o mensalista, taxa picanha (R$ 113) e terá uma surpresa do grupo :)
 
 Antes de viajar acertar o pagamento pendente, seja mensalista, bebida ou avulso.
