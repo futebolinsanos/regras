@@ -17,6 +17,8 @@ Para papais do grupo: Licença paternidade (LP) de 3 meses, retorna pagando o me
 
 Antes de viajar acertar o pagamento pendente, seja mensalista, bebida ou avulso.
 
+O grupo será destinado apenas aos mensalistas e o churrasqueiro. (a pedido de muitos).
+
 
 ## Regras do Jogo
 
