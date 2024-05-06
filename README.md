@@ -28,7 +28,7 @@ O contrato do mensalista é anual (12x R$ 40) pagamento em dia.
 OBRIGATORIAMENTE de 07 atletas, onde um dos quais, será o goleiro.
 
 - Para adicionar nome de diarista na lista do jogo, apenas com a seguinte condição:
-- x < 14 jogadores e t > 15:13 (no mesmo dia do respectivo jogo) horário de Brasília. [x = jogadores ;  t = horas].
+- x < 14 jogadores; t > 15:13 (no mesmo dia do respectivo jogo) horário de Brasília. [x = jogadores ;  t = horas].
   
 - A titularidade no jogo se dá por ordem de preenchimento do nome na lista no dia do jogo.
 
