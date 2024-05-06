@@ -32,7 +32,7 @@ OBRIGATORIAMENTE de 07 atletas, onde um dos quais, será o goleiro.
   
 - A titularidade no jogo se dá por ordem de preenchimento do nome na lista no dia do jogo.
 
-- Lista com número > 14 jogadores, os reservas serão por ordem de preenchimento a partir da sequência 15º (décimo quinto) jogador. 
+- Lista com número > 14 jogadores, reservas serão por ordem de preenchimento a partir da sequência 15º (décimo quinto) jogador. 
 
 - Quando tiver reserva(s) (Mais de 14 jogadores) a troca é imediata após 10 minutos de bola rolando, não tá correndo, não tá cooperando tem que dar o lugar sem reclamar, tem que ter bom senso e se encher o saco por isso também estará suspenso do futebol.
   
