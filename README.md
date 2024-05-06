@@ -27,11 +27,16 @@ O contrato do mensalista é anual (12x R$ 40) pagamento em dia.
 - Uma partida deve ser disputada por duas equipes, cada uma composta
 OBRIGATORIAMENTE de 07 atletas, onde um dos quais, será o goleiro.
 
+- Para adicionar nome de diarista na lista do jogo, apenas se estiver < 14 jogadores e > 15:13 (no mesmo dia do respectivo jogo) horário de Brasília.
+  
+- A titularidade no jogo se dá por ordem de preenchimento do nome na lista no dia do jogo.
+
+- Lista com número > 14 jogadores, os reservas serão por ordem de preenchimento a partir da sequência 15º (décimo quinto) jogador. 
+
 - Quando tiver reserva(s) (Mais de 14 jogadores) a troca é imediata após 10 minutos de bola rolando, não tá correndo, não tá cooperando tem que dar o lugar sem reclamar, tem que ter bom senso e se encher o saco por isso também estará suspenso do futebol.
   
 - Não alterar nome e/ou posição do amiguinho na lista do fute e/ou churrasco. 
 
-- A titularidade no jogo se dá por ordem de preenchimento do nome na lista no dia do jogo.
   
 - Colocou nome na lista e não compareceu por um motivo plausível será cobrado Taxa Diarista: R$ 15.
 
