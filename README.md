@@ -7,6 +7,13 @@ Pagamento do mensalista até o 7° dia do mês vigente!
 
 Após o vencimento valor a ser pago: R$ 50, sendo que o nome dos inadimplentes constará em lista a ser divulgada no grupo a partir do dia útil seguinte ao vencimento.
 
+1º - 7º dia do mês = R$ 40
+8º - 14º dia do mês = R$ 50
+15º - 21º dia do mês = R$ 60
+22º - 28º dia do mês = R$ 70
+
+Após 28º dia vtnc!
+
 Diarista: R$ 15
 
 
