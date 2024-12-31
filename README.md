@@ -1,19 +1,19 @@
 # Regras Futebol Insanos
 
 ## Pagamento
-Valor Mensalista: R$ 40
+Valor Mensalista: R$ 45
 
 Pagamento do mensalista até o 7° dia do mês vigente!
 
-Após o vencimento valor a ser pago: R$ 50 (8º - 14º dia do mês), sendo que o nome dos inadimplentes constará em lista a ser divulgada no grupo a partir do dia útil seguinte ao vencimento.
+Após o vencimento valor a ser pago: R$ 60 (8º - 14º dia do mês), sendo que o nome dos inadimplentes constará em lista a ser divulgada no grupo a partir do dia útil seguinte ao vencimento.
 
-1º - 7º dia do mês = R$ 40
+1º - 7º dia do mês = R$ 45
 
-8º - 14º dia do mês = R$ 50
+8º - 14º dia do mês = R$ 60
 
-15º - 21º dia do mês = R$ 60
+15º - 21º dia do mês = R$ 70
 
-22º - 28º dia do mês = R$ 70
+22º - 28º dia do mês = R$ 80
 
 Após 28º dia = vtnc!
 
@@ -84,9 +84,9 @@ estará em jogo assim que ultrapassar as linhas laterais do campo.
 concedida reversão em favor do adversário.
 
 ## Xurrasco
-Churrasco para mensalista: R$ 30
+Churrasco para mensalista: R$ 35
 
-Churrasco para convidado: R$ 40
+Churrasco para convidado: R$ 45
 
 Taxa Picanha: R$ 113
 
