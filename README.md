@@ -29,7 +29,7 @@ Antes de viajar acertar o pagamento pendente, seja mensalista, bebida ou avulso.
 
 O grupo será destinado apenas aos mensalistas e o churrasqueiro. (a pedido de muitos).
 
-O contrato do mensalista é anual (12x R$ 40) pagamento em dia.
+O contrato do mensalista é anual (12x R$ 45) pagamento em dia.
 
 
 ## Regras do Jogo
