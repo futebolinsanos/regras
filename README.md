@@ -5,15 +5,15 @@ Valor Mensalista: R$ 45
 
 Pagamento do mensalista até o 7° dia do mês vigente!
 
-Após o vencimento valor a ser pago: R$ 60 (8º - 14º dia do mês), sendo que o nome dos inadimplentes constará em lista a ser divulgada no grupo a partir do dia útil seguinte ao vencimento.
+Após o vencimento valor a ser pago: R$ 55 (8º - 14º dia do mês), sendo que o nome dos inadimplentes constará em lista a ser divulgada no grupo a partir do dia útil seguinte ao vencimento.
 
 1º - 7º dia do mês = R$ 45
 
-8º - 14º dia do mês = R$ 60
+8º - 14º dia do mês = R$ 55
 
-15º - 21º dia do mês = R$ 70
+15º - 21º dia do mês = R$ 65
 
-22º - 28º dia do mês = R$ 80
+22º - 28º dia do mês = R$ 75
 
 Após 28º dia = vtnc!
 
